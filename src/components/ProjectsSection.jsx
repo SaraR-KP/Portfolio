@@ -7,7 +7,7 @@ const projects = [
         id: 1,
         title: "Dubrovnik Travel Page",
         description: "A travel page website of Dubrovnikmade with HTML and CSS.",
-        image: "/projects/Dubrovnik.png",
+        image: "./projects/Dubrovnik.png",
         tags: ["HTML", "CSS"],
         githubUrl: "https://github.com/SaraR-KP/Travel-Guide"
     },
@@ -16,7 +16,7 @@ const projects = [
         id: 2,
         title: "Art Selling Page",
         description: "An imaginary art selling website made with HTML and CSS.",
-        image: "/projects/Art.png",
+        image: "./projects/Art.png",
         tags: ["HTML", "CSS"],
         githubUrl: "https://github.com/SaraR-KP/imaginary-shop" 
     },
@@ -25,7 +25,7 @@ const projects = [
         id: 3,
         title: "App For The Disabled",
         description: "An app made for those which have disabilites in Figma.",
-        image: "/projects/figma.png",
+        image: "./projects/figma.png",
         tags: ["Figma"],
         githubUrl: "https://www.figma.com/proto/b0FMQzJLh3XYi02mt5sjvl/W0rk-thing?page-id=0%3A1&node-id=221-191&p=f&viewport=66%2C213%2C0.37&t=UU3DZAKMKZ5mymus-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=221%3A191"
     },
@@ -34,7 +34,7 @@ const projects = [
         id: 4,
         title: "JavaScript tasks",
         description: "A JavaScript website for calculating values, randomising lists and checking palindromes",
-        image: "/projects/Java.png",
+        image: "./projects/Java.png",
         tags: ["JavaScript"],
         githubUrl: "https://github.com/SaraR-KP/JavaScript-testing" 
     },
@@ -43,7 +43,7 @@ const projects = [
         id: 5,
         title: "The Shattering - Story",
         description: "A story based on the Slavic mythology made in Twine.",
-        image: "/projects/Twine.png",
+        image: "./projects/Twine.png",
         tags: ["Twine"],
         githubUrl: "https://github.com/SaraR-KP/The-Shattering" 
     },
@@ -52,7 +52,7 @@ const projects = [
         id: 6,
         title: "Ad Campaign",
         description: "A picture taken I took for DSQUARED2 ad campaign, edited using Photoshop.",
-        image: "/projects/Reklame-2.png",
+        image: "./projects/Reklame-2.png",
         tags: ["Photoshop"],
         githubUrl: "https://github.com/SaraR-KP/Photoshop-Ad" 
     },
